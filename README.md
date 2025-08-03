@@ -27,7 +27,7 @@ A personal web presentation for a freelancer and junior PHP developer. The site 
                         
           
  ![Screenshot 7](./7.png)  ![Screenshot 8](./8.png)  ![Screenshot 9](./9.png) 
-                               LightMode/SWITCH 
+                              
 
 
 
