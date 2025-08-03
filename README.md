@@ -22,8 +22,8 @@ A personal web presentation for a freelancer and junior PHP developer. The site 
 
 |-----------------------------|------------------|----------------------|
 | ![Screenshot 4](./4.png) | ![Screenshot 5](./5.png) | ![Screenshot 6](./6.png) |
-LightMode/SWITCH
-|----------------|-------------------|-------------------|
+                                LightMode/SWITCH 
+            |----------------|-------------------|-------------------| 
 | ![Screenshot 7](./7.png) | ![Screenshot 8](./8.png) | ![Screenshot 9](./9.png) |
 
 |---------------------|------------------|-------------------|
@@ -103,7 +103,7 @@ Webová prezentace pro freelancera a juniorního PHP developera. Obsahuje více 
 
 |--------------------------------|------------------|-----------------|
 | ![Screenshot 4](./4.png)       | ![Screenshot 5](./5.png) | ![Screenshot 6](./6.png) |
-LightMode/SWITCH
+                                LightMode/SWITCH
 |---------------------------|----------------------|-------------|
 | ![Screenshot 7](./7.png)  | ![Screenshot 8](./8.png) | ![Screenshot 9](./9.png) |
 
