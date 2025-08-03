@@ -17,16 +17,22 @@ A personal web presentation for a freelancer and junior PHP developer. The site 
 
 ## 📸 Page Previews
 
- ![Screenshot 1](./1.png)  ![Screenshot 2](./2.png)  ![Screenshot 3](./3.png) 
+ ![Screenshot 1](./1.png)   ![Screenshot 2](./2.png)  ![Screenshot 3](./3.png) 
+
 
 
  ![Screenshot 4](./4.png)  ![Screenshot 5](./5.png)  ![Screenshot 6](./6.png) 
-                                LightMode/SWITCH 
+               
+                                
+                        
           
  ![Screenshot 7](./7.png)  ![Screenshot 8](./8.png)  ![Screenshot 9](./9.png) 
                                LightMode/SWITCH 
 
+
+
  ![Screenshot 10](./10.png)  ![Screenshot 11](./11.png)  ![Screenshot 12](./12.png) 
+
 
 
  ![Screenshot 13](./13.png) 
@@ -95,24 +101,6 @@ Webová prezentace pro freelancera a juniorního PHP developera. Obsahuje více 
 
 ---
 
-## 📸 Náhledy stránek
-
-
- ![Screenshot 1](./1.png)     ![Screenshot 2](./2.png)  ![Screenshot 3](./3.png) 
-
-
- ![Screenshot 4](./4.png)        ![Screenshot 5](./5.png)  ![Screenshot 6](./6.png) 
-                             
-
-![Screenshot 7](./7.png)   ![Screenshot 8](./8.png)  ![Screenshot 9](./9.png) 
-                              LightMode/SWITCH 
-
- ![Screenshot 10](./10.png)  ![Screenshot 11](./11.png)  ![Screenshot 12](./12.png) 
-
-
- ![Screenshot 13](./13.png) 
-
----
 
 ## 🛠 Použité technologie
 
