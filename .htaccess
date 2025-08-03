@@ -1,0 +1,7 @@
+RewriteEngine On
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+RewriteCond %{HTTP_USER_AGENT} !(BlackBerry)
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{SERVER_PORT} !^443$
+RewriteCond %{HTTP_HOST} ^(www\.)?siteseveryday\.cz [NC]
+RewriteRule ^(.*)$ https://siteseveryday.cz/$1 [L,R=301]
