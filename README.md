@@ -61,11 +61,6 @@ A personal web presentation for a freelancer and junior PHP developer. The site 
 ├── .htaccess
 ├── [1.png to 13.png]
 
-yaml
-Zkopírovat
-Upravit
-
----
 
 ## 🔗 Live Website
 
@@ -103,23 +98,18 @@ Webová prezentace pro freelancera a juniorního PHP developera. Obsahuje více 
 
 ## 📸 Náhledy stránek
 
-| Úvodní stránka – Hero sekce | Přepínání režimu | Hlavní nabídka |
 |-----------------------------|------------------|----------------|
 | ![Screenshot 1](./1.png)    | ![Screenshot 2](./2.png) | ![Screenshot 3](./3.png) |
 
-| Reference (automatická rotace) | Tlačítko animace | Odeslání zprávy |
 |--------------------------------|------------------|-----------------|
 | ![Screenshot 4](./4.png)       | ![Screenshot 5](./5.png) | ![Screenshot 6](./6.png) |
 
-| Admin sekce – přihlášení | Admin sekce – zprávy | PHP backend |
 |---------------------------|----------------------|-------------|
 | ![Screenshot 7](./7.png)  | ![Screenshot 8](./8.png) | ![Screenshot 9](./9.png) |
 
-| Nástroje a frameworky | Pracovní historie | Kontaktní sekce |
 |------------------------|--------------------|------------------|
 | ![Screenshot 10](./10.png) | ![Screenshot 11](./11.png) | ![Screenshot 12](./12.png) |
 
-| Struktura projektu na disku |
 |-----------------------------|
 | ![Screenshot 13](./13.png) |
 
@@ -127,7 +117,7 @@ Webová prezentace pro freelancera a juniorního PHP developera. Obsahuje více 
 
 ## 🛠 Použité technologie
 
-- **Frontend:** HTML5, CSS3, JavaScript (vanilla)
+- **Frontend:** HTML5, CSS3, JavaScript 
 - **Backend:** PHP 8
 - **Design:** Figma
 - **Styling:** Vlastní CSS, částečně Tailwind styl
@@ -152,9 +142,6 @@ Webová prezentace pro freelancera a juniorního PHP developera. Obsahuje více 
 ├── .htaccess
 ├── [1.png až 13.png]
 
-yaml
-Zkopírovat
-Upravit
 
 ---
 
