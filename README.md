@@ -17,23 +17,18 @@ A personal web presentation for a freelancer and junior PHP developer. The site 
 
 ## 📸 Page Previews
 
-| Hero Section | Light/Dark Mode | Navigation |
 |--------------|------------------|-------------|
 | ![Screenshot 1](./1.png) | ![Screenshot 2](./2.png) | ![Screenshot 3](./3.png) |
 
-| Testimonials (auto-rotate) | Animated Button | Message Submission |
 |-----------------------------|------------------|----------------------|
 | ![Screenshot 4](./4.png) | ![Screenshot 5](./5.png) | ![Screenshot 6](./6.png) |
 
-| Admin Login | Admin Messages | PHP Backend Code |
 |----------------|-------------------|-------------------|
 | ![Screenshot 7](./7.png) | ![Screenshot 8](./8.png) | ![Screenshot 9](./9.png) |
 
-| Tools & Frameworks | Career Timeline | Contact Section |
 |---------------------|------------------|-------------------|
 | ![Screenshot 10](./10.png) | ![Screenshot 11](./11.png) | ![Screenshot 12](./12.png) |
 
-| Project Folder Structure |
 |--------------------------|
 | ![Screenshot 13](./13.png) |
 
